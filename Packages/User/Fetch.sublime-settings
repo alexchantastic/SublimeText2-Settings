@@ -1,0 +1,13 @@
+{
+	"files":
+	{
+		"Normalize.css": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"YUI Reset": "http://yui.yahooapis.com/3.7.3/build/cssreset/cssreset.css",
+		"YUI Reset Minified": "http://yui.yahooapis.com/3.7.3/build/cssreset/cssreset-min.css",
+		"jQuery": "http://code.jquery.com/jquery.js",
+		"jQuery Minified": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+	}
+}

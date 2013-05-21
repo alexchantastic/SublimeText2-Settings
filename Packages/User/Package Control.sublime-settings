@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"CSScomb",
+		"jQuery",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP-Twig",
+		"Prefixr",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Tag",
+		"Terminal",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"http://sublime.wbond.net/testing/packages.json"
+	]
+}
